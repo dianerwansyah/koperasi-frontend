@@ -71,4 +71,3 @@ Hasil build berada di folder `build/`.
 - **State Management**: Redux Toolkit + localStorage
 - **UI**: Tailwind CSS + DaisyUI, sudah mendukung tema light/dark
 - **API**: Axios menggunakan `REACT_APP_API_URL` dari `.env`
-- **Routing**: React Router v6
